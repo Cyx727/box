@@ -28,3 +28,13 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 >更是中国军人的精神——
 >不惧对手，英勇亮剑！
 >“我已无法返航你们继续前进”
+
+* Asterisks 1
+* Asterisks 2
+* Asterisks 3
++ Plus signs 1
++ Plus signs 2
++ Plus signs 3
+- Minus signs 1
+- Minus signs 2
+- Minus signs 3
