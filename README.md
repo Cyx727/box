@@ -30,6 +30,6 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 >“我已无法返航你们继续前进”
 
 * 无论敌人有多无耻
-+多么奸诈，多么凶残
--我们绝不会后退，绝不投降，绝不妥协！”
++ 多么奸诈，多么凶残
+- 我们绝不会后退，绝不投降，绝不妥协！”
 
