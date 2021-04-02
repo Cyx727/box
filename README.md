@@ -29,12 +29,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 >不惧对手，英勇亮剑！
 >“我已无法返航你们继续前进”
 
-* Asterisks 1
-* Asterisks 2
-* Asterisks 3
-+ Plus signs 1
-+ Plus signs 2
-+ Plus signs 3
-- Minus signs 1
-- Minus signs 2
-- Minus signs 3
+* 无论敌人有多无耻
++多么奸诈，多么凶残
+-我们绝不会后退，绝不投降，绝不妥协！”
+
