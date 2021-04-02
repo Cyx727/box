@@ -33,3 +33,5 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 + 多么奸诈，多么凶残
 - 我们绝不会后退，绝不投降，绝不妥协！”
 
+1.可中国的目标从不是超越美国
+2.而是超越自我成为更好的中国
