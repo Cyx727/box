@@ -23,3 +23,8 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     return 0;
 }
 ```
+
+>81192，不仅仅是一架飞机
+>更是中国军人的精神——
+>不惧对手，英勇亮剑！
+>“我已无法返航你们继续前进”
