@@ -42,6 +42,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 | 铭记历史的屈辱  | 山河已无恙 吾辈必自强|
 
 *20年后，我们成为了你
-但我们，也不会成为你*
+但我们，也不会成为你*  
+
 **因为，20年后的中国
 不是20年前的样子了！**
