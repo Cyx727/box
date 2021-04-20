@@ -7,7 +7,7 @@
 ##### (a link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md.)
 [another note](./note.md)
 ##### (an image that is a file in the directory.)
-[（本地图片）](./pic1.png)   
+[（本地图片）](./image/pic1.png)   
 ##### ( an image that is located on the web (not a file inthedirectory). If you right-click on an image in a web browser there is an option in the pop up to get the address/URL to the image.)
 ![alt 81192我们继续前进（网络图片）](https://pics6.baidu.com/feed/bd315c6034a85edfd5a1658e065e412bdd547504.jpeg?token=62345fb8ea8bd0f8067e5f27a77d6a22)
 ##### (a code block with syntax highlighting for the programming language being used. Put some example code in the code block. I don't care what code. Note that those three ticks that define a code block are backticks not apostrophes.)
